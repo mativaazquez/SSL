@@ -1,0 +1,1 @@
+Compilador utilizado: MSYS2
