@@ -1,1 +1,1 @@
-Compilador utilizado: MSYS2
+Compilador utilizado: MinGW
